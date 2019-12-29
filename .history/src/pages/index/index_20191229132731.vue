@@ -31,6 +31,44 @@
 </i-card>
       
 
+<i-grid i-class="no-border">
+    <i-grid-item i-class="no-border"> 
+        <i-grid-icon>
+            <image src="/static/images/1.png" />
+        </i-grid-icon>
+        <i-grid-label>小黄车</i-grid-label>
+    </i-grid-item >
+ 
+   <i-grid-item i-class="no-border">
+        <i-grid-icon>
+            <image src="/static/images/2.png" />
+        </i-grid-icon>
+        <i-grid-label>Grid</i-grid-label>
+    </i-grid-item>
+
+      <i-grid-item i-class="no-border">
+        <i-grid-icon>
+            <image src="/static/images/3.png" />
+        </i-grid-icon>
+        <i-grid-label>Grid</i-grid-label>
+    </i-grid-item>
+
+     <i-grid-item i-class="no-border">
+        <i-grid-icon>
+            <image src="/static/images/4.png" />
+        </i-grid-icon>
+        <i-grid-label>Grid</i-grid-label>
+    </i-grid-item>
+</i-grid>
+
+<i-panel title="推荐">
+    <view style="padding: 15px;">
+      
+      <i-card  i-class="split" title="卡片标题" extra="额外内容" thumb="https://i.loli.net/2017/08/21/599a521472424.jpg">
+    <view slot="content">内容不错</view>
+    <view slot="footer">尾部内容</view>
+    </i-card>
+
 </view>
 </i-panel>
     
@@ -59,9 +97,9 @@ export default {
        {name:"编号4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4" }
      ],
       imgUrls: [
-      "/static/images/5.jpg",
-      "/static/images/6.jpg",
-      "/static/images/7.jpg"
+      'https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=640',
+      'https://images.unsplash.com/photo-1551214021-84f95e060dee?w=640',
+      'https://images.unsplash.com/photo-1551446591-142875a901a1?w=640'
     ],
     indicatorDots: false,
     autoplay: false,
@@ -74,11 +112,7 @@ export default {
   
 
   methods: {
-       goType(type){
-        console.log(type)
-        let url = '../list/main?type=' + type.title
-        mpvue.navigateTo({ url })
-    }
+   
 
   },
 

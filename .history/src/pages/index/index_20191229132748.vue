@@ -59,9 +59,9 @@ export default {
        {name:"编号4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4" }
      ],
       imgUrls: [
-      "/static/images/5.jpg",
-      "/static/images/6.jpg",
-      "/static/images/7.jpg"
+      'https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=640',
+      'https://images.unsplash.com/photo-1551214021-84f95e060dee?w=640',
+      'https://images.unsplash.com/photo-1551446591-142875a901a1?w=640'
     ],
     indicatorDots: false,
     autoplay: false,
@@ -74,11 +74,7 @@ export default {
   
 
   methods: {
-       goType(type){
-        console.log(type)
-        let url = '../list/main?type=' + type.title
-        mpvue.navigateTo({ url })
-    }
+   
 
   },
 

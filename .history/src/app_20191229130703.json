@@ -21,17 +21,17 @@
       "text": "首页",
       "pagePath": "pages/index/main",
       "iconPath": "static/images/home.png",
-      "selectedIconPath": "static/images/_home.png"
+      "selectedIconPath": "static/image/_home.png"
     }, {
       "text": "地图",
       "pagePath": "pages/map/main",
       "iconPath": "static/images/map.png",
-      "selectedIconPath": "static/images/_map.png"
+      "selectedIconPath": "static/tabs/_map.png"
     }, {
       "text": "我的",
       "pagePath": "pages/mine/main",
       "iconPath": "static/images/mine.png",
-      "selectedIconPath": "static/images/_mine.png"
+      "selectedIconPath": "static/image/_mine.png"
     }],
 
     "items": [{

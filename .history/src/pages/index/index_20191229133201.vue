@@ -59,9 +59,9 @@ export default {
        {name:"编号4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4" }
      ],
       imgUrls: [
-      "/static/images/5.jpg",
-      "/static/images/6.jpg",
-      "/static/images/7.jpg"
+      "/static/images/5.png",
+      "/static/images/6.png",
+      "/static/images/7.png"
     ],
     indicatorDots: false,
     autoplay: false,

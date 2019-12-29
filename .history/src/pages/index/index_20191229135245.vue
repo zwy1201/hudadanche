@@ -61,7 +61,7 @@ export default {
       imgUrls: [
       "/static/images/5.jpg",
       "/static/images/6.jpg",
-      "/static/images/7.jpg"
+      "/static/images/7.jpeg"
     ],
     indicatorDots: false,
     autoplay: false,
