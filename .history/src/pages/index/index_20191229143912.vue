@@ -53,10 +53,10 @@ export default {
        
      ],
      top:[
-       {name:"编号1",address:"体育馆",images:"8.jpg",remark:"小黄车" },
-       {name:"编号2",address:"图书馆",images:"9.jpg",remark:"小蓝车" },
-       {name:"编号3",address:"2号体育场",images:"10.jpg",remark:"摩拜" },
-       {name:"编号4",address:"逸夫楼",images:"12.jpg",remark:"租八戒" }
+       {name:"编号1",address:"地址1",image:"8.jpg",remark:"介绍1" },
+       {name:"编号2",address:"地址2",image:"9.jpg",remark:"介绍2" },
+       {name:"编号3",address:"地址3",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍3" },
+       {name:"编号4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4" }
      ],
       imgUrls: [
       "/static/images/5.jpg",
