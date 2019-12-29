@@ -1,0 +1,11 @@
+{
+    "navigationBarTitleText": "地图",
+    "usingComponents": {
+        "i-button": "../../../static/iview/button/index",
+        "i-panel": "../../../static/iview/panel/index",
+        "i-grid": "../../../static/iview/grid/index",
+        "i-grid-item": "../../../static/iview/grid-item/index",
+        "i-grid-icon": "../../../static/iview/grid-icon/index",
+
+    }
+  }

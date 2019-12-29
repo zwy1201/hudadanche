@@ -21,7 +21,6 @@
         <i-grid-label>{{grid.title}}</i-grid-label>
     </i-grid-item>
 </i-grid>
-
  <i-panel :title="title_name">
     <view style="padding: 15px;">
        <i-card  v-for="item in top" :key="item" i-class="split" :extra="item.name" :thumb="item.iamge">

@@ -12,7 +12,7 @@ export default {
   data () {
     return {
      markers: [{
-     
+      iconPath: "/resources/others.png",
       id: 0,
       latitude: 23.099994,
       longitude: 113.324520,
