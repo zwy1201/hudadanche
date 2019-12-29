@@ -25,7 +25,7 @@
 
      <i-grid-item i-class="no-border">
         <i-grid-icon>
-            <image src="/static/images/4.png" />
+            <image src="/static/images/1.png" />
         </i-grid-icon>
         <i-grid-label>Grid</i-grid-label>
     </i-grid-item>

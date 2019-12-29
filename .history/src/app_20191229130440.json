@@ -37,8 +37,8 @@
     "items": [{
       "name": "首页",
       "pagePath": "pages/index/main",
-      "icon": "static/image/home.png",
-      "activeIcon": "static/image/_home.png"
+      "icon": "static/tabs/home.png",
+      "activeIcon": "static/tabs/_home.png"
     }],
     "position": "bottom"
   }

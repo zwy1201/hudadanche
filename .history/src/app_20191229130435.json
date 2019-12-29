@@ -21,7 +21,7 @@
       "text": "首页",
       "pagePath": "pages/index/main",
       "iconPath": "static/image/home.png",
-      "selectedIconPath": "static/image/_home.png"
+      "selectedIconPath": "static/tabs/_home.png"
     }, {
       "text": "地图",
       "pagePath": "pages/map/main",
@@ -37,8 +37,8 @@
     "items": [{
       "name": "首页",
       "pagePath": "pages/index/main",
-      "icon": "static/image/home.png",
-      "activeIcon": "static/image/_home.png"
+      "icon": "static/tabs/home.png",
+      "activeIcon": "static/tabs/_home.png"
     }],
     "position": "bottom"
   }
