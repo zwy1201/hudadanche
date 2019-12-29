@@ -1,0 +1,6 @@
+[
+    {"name":"小黄车1","address":"地址1","image":"/static/images/10.jpg","remark":"介绍1" },
+    {"name":"小黄车2","address":"地址2","image":"8.jpg","remark":"介绍2" },
+    {"name":"小黄车3","address":"地址3","image":"8.jpg","remark":"介绍3" },
+    {"name":"小黄车4","address":"地址4","image":"8.jpg","remark":"介绍4" }
+  ]

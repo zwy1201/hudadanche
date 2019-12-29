@@ -1,0 +1,6 @@
+[
+    {"name":"摩拜1","address":"地址1","image":"/static/images/8.jpg","remark":"介绍1" },
+    {"name":"摩拜2","address":"地址2","image":"/static/images/8.jpg","remark":"介绍2" },
+    {"name":"摩拜3","address":"地址3","image":"9","remark":"介绍3" },
+    {"name":"摩拜4","address":"地址4","image":"9","remark":"介绍4" }
+  ]

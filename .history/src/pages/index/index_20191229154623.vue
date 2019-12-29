@@ -53,10 +53,10 @@ export default {
        
      ],
      top:[
-       {name:"编号1",address:"体育馆",image:"/static/images/10.png",remark:"小黄车" },
-       {name:"编号2",address:"图书馆",image:"/static/images/9.jpeg",remark:"小蓝车" },
-       {name:"编号3",address:"2号体育场",image:"/static/images/8.jpg",remark:"摩拜" },
-       {name:"编号4",address:"逸夫楼",image:"/static/images/12.jpeg",remark:"租八戒" }
+       {name:"编号1",address:"体育馆",images:"/static/images/9.jpeg",remark:"小黄车" },
+       {name:"编号2",address:"图书馆",images:"/static/images/9.jpeg",remark:"小蓝车" },
+       {name:"编号3",address:"2号体育场",images:"/static/images/9.jpeg",remark:"摩拜" },
+       {name:"编号4",address:"逸夫楼",images:"/static/images/9.jpeg",remark:"租八戒" }
      ],
       imgUrls: [
       "/static/images/5.jpg",
